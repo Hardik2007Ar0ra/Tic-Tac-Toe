@@ -31,9 +31,6 @@ Managing game state
 <br>
 Writing cleaner and structured code
 
-# Screenshot
-![Tic Tac Toe Game](./screenshot.png)
-
 # How to Run
 1 Clone the repository
 <br>
